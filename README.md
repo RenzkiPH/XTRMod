@@ -2,13 +2,17 @@ XTRmod Project
 ==============
 
 Visit Repository And Releases At GitHub:
+
 https://github.com/RenzkiPH/XTRmod
+
 https://github.com/RenzkiPH/XTRmod/releases
 
 Maintainers:
 
 RenzkiPH          @ xda-developers
+
 Buda1996          @ xda-developers
+
 jai554            @ xda-developers 
 
 Terms Of Use:
@@ -26,6 +30,7 @@ It Optimized Your ROM For Better RAM, Performance And More. This Project Is Desi
 Changelog
 
 030414 RenzkiPH // 2014 April 11
+
 -Initial Release/Commit
 
 This Project Is Licensed Under GPLv3. For More Info See 
